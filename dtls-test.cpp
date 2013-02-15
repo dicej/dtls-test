@@ -4,7 +4,7 @@
 
 // To build and run this file:
 //  $ gcc dtls-test.cpp -lssl -lcrypto -fno-exceptions -o dtls-test
-//  $ ./dtls-test
+//  $ ./dtls-test 10 0 4 5
 
 // This is public domain software.  Do whatever you want with it.
 
